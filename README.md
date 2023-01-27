@@ -17,6 +17,3 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
-<div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keunjin2013&layout=compact)](https://github.com/Keunjin2013/github-readme-stats)
-</div>
