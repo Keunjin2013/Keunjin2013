@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Keunjin&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Eunjin Kim&fontSize=70&fontColor=ffffff)
 <br/><br/>
 <div align=center>
   <h3>👋 안녕하세요 김은진입니다 :)</h3>
